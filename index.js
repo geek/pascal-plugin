@@ -2,6 +2,6 @@
 
 const _ = require('lodash')
 
-exports.pascal = function (input) {
+module.exports = function (input) {
   return _.capitalize(_.camelCase(input))
 }
