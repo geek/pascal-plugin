@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/geek/pascal-plugin#readme",
   "dependencies": {
-    "code": "^2.0.1",
-    "lab": "^8.0.0",
     "lodash": "^3.10.1"
   },
   "devDependencies": {
+    "code": "^2.0.1",
+    "lab": "^8.0.0",
     "hapi": "^11.1.2"
   }
 }
